@@ -2,12 +2,12 @@
 I am a full-stack developer currently working as a Senior Data Consultant in NYC. I'm an AWS Certified Solutions Architect, and hold a M.S. Computer Science with a specialization in Enterprise & Cloud Computing. I have developed architecture for Fortune 500 companies, and enjoy tackling personal projects.
 
 ## Frank's Projects
-bottomless.nyc - [find bottomless brunches in NYC]( https://bottomless.nyc )
-frankbesson.com - [my personal portfolio site] ( https://frankbesson.com )
+bottomless.nyc - [find bottomless brunches in NYC]( https://bottomless.nyc )<br/>
+frankbesson.com - [my personal portfolio site] ( https://frankbesson.com )<br/>
 frankbesson.blog - [my personal blog] ( https://frankbesson.blog )
 
-## Some extra links
-LinkedIn - [here] ( https://www.linkedin.com/in/frankbesson/ )
+## Extra links
+LinkedIn - [here] ( https://www.linkedin.com/in/frankbesson/ )<br/>
 HackerRank - [here] ( https://www.hackerrank.com/frankbesson )
 
 ## Frank's Top Languages
