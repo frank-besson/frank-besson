@@ -10,6 +10,3 @@
 
 ## Frank's Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frank-besson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Frank's Stats
-[![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frank-besson)](https://github.com/anuraghazra/github-readme-stats)
