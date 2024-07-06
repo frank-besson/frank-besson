@@ -1,5 +1,5 @@
 ## [Frank Besson]( https://linktr.ee/frankbesson ) <img src="https://frankbesson.com/static/icons/frankbesson.ico" style="width: 30px; height: 30px; text-align: center; vertical-align: middle;">
-- 👨🏻‍💻&nbsp;&nbsp;&nbsp;CTO of TableOne
+- 👨🏻‍💻&nbsp;&nbsp;CTO of TableOne
 - ☁️&nbsp;&nbsp;Develop cloud architecture for Fortune 500 companies
 
 ## [Frank's Websites]( https://linktr.ee/frankbesson )
