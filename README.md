@@ -10,7 +10,7 @@ I love food and computers. Built TableOne, a dining app that's seated 100K+ dine
 
 ### Lately
 
-[TableOne](https://tableone.app/), [concierge](https://concierge.nyc/), LLM research on AMD Strix Halo, building MCPs, and tinkering with Arch (btw).
+[TableOne](https://tableone.app/), [concierge](https://concierge.nyc/), LLM research on AMD Strix Halo, building MCPs, and tinkering with NixOS & Arch (btw).
 
 
 ---
